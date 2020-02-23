@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding:0;
+}
 .container{
     margin-bottom: 100px;
 }
@@ -20,4 +24,44 @@
     cursor: pointer;
     border:none;
     color: #fff;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 25px;
+    border-radius:15px;
+}
+.cat1{
+    background-image: linear-gradient(to right, #FF9C35 0%,#FFD019 100%)
+}
+.cat2{
+    background-image: linear-gradient(to bottom, #FF5498 0%, #FF1671 100%)
+}
+.cat3{
+    background-image: linear-gradient(120deg, #3F8EFC 0%, #09F4C5 100%);
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 150px;
+}
+.card{
+    border: none;
+    border-radius:15px;
+    box-shadow: 5px 5px 10px lightgreen;
+}
+.card-footer{
+    background-color: white;
+    border-top:none;
+}
+#subscribe{
+    width:900px;
+    height:300px;
+    background-color: #fceae8;
+    border-radius:25px;
+}
+#subscribe h6{
+    color:gray;
+}
+footer{
+    text-align: center;
 }
