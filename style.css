@@ -65,6 +65,9 @@
 #subscribe h6{
     color:gray;
 }
+#subscribe button{
+    margin-top: 2px;
+}
 footer{
     text-align: center;
 }
