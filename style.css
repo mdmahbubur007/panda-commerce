@@ -30,13 +30,16 @@
     border-radius:15px;
 }
 .cat1{
-    background-image: linear-gradient(to right, #FF9C35 0%,#FFD019 100%)
+    background-image: linear-gradient(to right, #FF9C35 0%,#FFD019 100%);
+  
 }
 .cat2{
-    background-image: linear-gradient(to bottom, #FF5498 0%, #FF1671 100%)
+   background-image: linear-gradient(to bottom, #FF5498 0%, #FF1671 100%);
+  
 }
 .cat3{
     background-image: linear-gradient(120deg, #3F8EFC 0%, #09F4C5 100%);
+  
 }
 .categories h1{
     color: #fff;
